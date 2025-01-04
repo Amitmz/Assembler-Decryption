@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1713596102 source:c:\users\shani\desktop\assemblerproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"preAssemblerFunctions.h"
+	"firstCycleFunctions.h"
+	"SecondCycleFunctions.h"
+
+1713597050 source:c:\users\shani\desktop\assemblerproject\helpfulfunctions.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"helpfulFunctions.h"
+	"constants.h"
+	"Objects.h"
+
+1712327921 source:c:\users\shani\desktop\assemblerproject\preassemblerfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constants.h"
+	"objects.h"
+	"helpfulFunctions.h"
+	"preAssemblerFunctions.h"
+	"freeHelperFunctions.h"
+
+1712600350 c:\users\shani\desktop\assemblerproject\constants.h
+
+1712639710 c:\users\shani\desktop\assemblerproject\objects.h
+	"constants.h"
+
+1708327143 c:\users\shani\desktop\assemblerproject\helpfulfunctions.c
+	<stdio.h>
+	<helpfulFunctions.h>
+
+1708327207 c:\users\shani\desktop\assemblerproject\preassemblerfunctions.c
+	<stdio.h>
+	<string.h>
+	"constants.h"
+	"objects.h"
+	"helpfulFunctions.h"
+
+1713596981 c:\users\shani\desktop\assemblerproject\helpfulfunctions.h
+	"objects.h"
+
+1712327665 c:\users\shani\desktop\assemblerproject\preassemblerfunctions.h
+	"objects.h"
+
+1713596012 source:c:\users\shani\desktop\assemblerproject\firstcyclefunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constants.h"
+	"objects.h"
+	"helpfulFunctions.h"
+	"firstCycleFunctions.h"
+	"binaryHelpfulFunctions.h"
+	"freeHelperFunctions.h"
+
+1712601672 c:\users\shani\desktop\assemblerproject\firstcyclefunctions.h
+
+1713596012 source:c:\users\shani\desktop\assemblerproject\binaryhelpfulfunctions.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+	"constants.h"
+	"helpfulFunctions.h"
+
+1712601393 c:\users\shani\desktop\assemblerproject\binaryhelpfulfunctions.h
+
+1712413463 source:c:\users\shani\desktop\assemblerproject\freehelperfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	"freeHelperFunctions.h"
+
+1712413497 c:\users\shani\desktop\assemblerproject\freehelperfunctions.h
+	"objects.h"
+
+1712636068 source:c:\users\shani\desktop\assemblerproject\secondcyclefunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"constants.h"
+	"objects.h"
+	"SecondCycleFunctions.h"
+	"helpfulFunctions.h"
+	"binaryHelpfulFunctions.h"
+
+1713596453 c:\users\shani\desktop\assemblerproject\secondcyclefunctions.h
+
